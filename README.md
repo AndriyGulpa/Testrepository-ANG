@@ -1,3 +1,3 @@
-# About reposit test
+# About reposit pull test
 
 EXemple repositoriy
